@@ -191,6 +191,8 @@ github.com/jackysp/tidb v1.0.1-0.20200120095621-faecf0f00f99 h1:OwIaMLJJAzr8x+32
 github.com/jackysp/tidb v1.0.1-0.20200120095621-faecf0f00f99/go.mod h1:t5JBkevCmtv8pjEt/ZLfoHc5kBkj9XRwpAFRAzNV/vw=
 github.com/jackysp/tidb v1.0.1-0.20200122130825-5243b722202e h1:t+Nvd05r6LxAZSESE9lsVPFoxc5hdT6kZgw3LkM3UBs=
 github.com/jackysp/tidb v1.0.1-0.20200122130825-5243b722202e/go.mod h1:t5JBkevCmtv8pjEt/ZLfoHc5kBkj9XRwpAFRAzNV/vw=
+github.com/jackysp/tidb v1.0.1-0.20200122135349-123dad5810a4 h1:izW4xuhkuqfmTTYBC3Zbi1ffATzyA9tcTsHdR8ZVocQ=
+github.com/jackysp/tidb v1.0.1-0.20200122135349-123dad5810a4/go.mod h1:t5JBkevCmtv8pjEt/ZLfoHc5kBkj9XRwpAFRAzNV/vw=
 github.com/jackysp/unistore v0.0.0-20200120095640-fd40b9509f27 h1:FnfBtTc3LhiUqFAz62nA0Cys2juB4AL4VdHs/T6DJGw=
 github.com/jackysp/unistore v0.0.0-20200120095640-fd40b9509f27/go.mod h1:TxFb6VrYHzVCBWb2Ogxq3cjBiWSu4aQrtll7eEl8Y/s=
 github.com/jackysp/unistore v0.0.0-20200122130905-32399b200a6d h1:SAI1jztq2+jx1BeVTVHWonXJQpbK8ZezVqdfkN/efVE=

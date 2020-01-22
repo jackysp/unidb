@@ -10,6 +10,6 @@ require (
 	github.com/pingcap/tidb v1.1.0-beta.0.20200103053909-324a4686f08e
 )
 
-replace github.com/pingcap/tidb => github.com/jackysp/tidb v1.0.1-0.20200122130825-5243b722202e
+replace github.com/pingcap/tidb => github.com/jackysp/tidb v1.0.1-0.20200122135349-123dad5810a4
 
 replace github.com/ngaut/unistore => github.com/jackysp/unistore v0.0.0-20200122130905-32399b200a6d
